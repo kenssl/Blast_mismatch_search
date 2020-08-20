@@ -1,6 +1,7 @@
 # Blast_mismatch_search
 A early model of blast mismatch search engine using python script
 General usage:
+Designed by Timothy Ting-Leung NG, The Hong Kong Polytechnic University, Hong Kong Special Administrative Region, China
 
 Downloading the python script
 Download and save the python in a folder of your interest. Create a folder called pocket in the same folder where the python script is located.
